@@ -190,7 +190,8 @@
     background-color: #008CBA;
   }
   
-  .box:hover .overlay {
+  .box:hover .overlay
+{
     opacity: 0.7;
   }
   
@@ -353,10 +354,7 @@
     {
         margin: 40px 24%;
     }
-    .appdevtop h3
-    {
-        
-    }
+   
 
     .appdevtop p
     {
@@ -391,14 +389,14 @@
 
     .appbox-Right-Uber img
     {
-        width: 100%
+        width: 100%;
     }
     .appbox-Left-Uber
     {
         margin: 0px 20%;
     }
     
-
+}
 
 /* Game Development */
 
@@ -425,25 +423,21 @@
     margin-left: 30px;
 }
 
-
 .Gamedevbottom
 {
     font-family: 'Questrial', sans-serif;
-}
-
-.gamebox-top
-{
-    
 }
 
 .gamebox-top h2
 {
     margin-left: 43%;
 }
+
 .gamebox-top h4
 {
     margin-left: 41%;
 }
+
 .gamebox-top p
 {
     text-align: center;
@@ -465,10 +459,11 @@
 
 .gamebox-bottom p
 {
-    ;
+    
     margin: 40px 10%;
     text-align: center;
 }
+
 .gamebox-bottom a
 {
     margin: 50px 30px;
@@ -533,9 +528,6 @@
 }
 
 
-
-
-
 .Webdevtop 
 {
     margin: 60px 38%;
@@ -570,16 +562,3 @@
     padding: 30px;
 }
 
-@media only screen and (max-width: 600px) 
-{
-    .Webdevtop 
-    {
-        margin: 0px 20%;
-    }
-    .WebdevBottom img
-    {
-        width: 80%;
-        margin-left: 13%;
-        
-    }
-}
