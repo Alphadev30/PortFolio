@@ -332,10 +332,11 @@
 .appbox-left img
 {
     padding-top: 30px;
+    width: 220px;
 }
 .appbox-right
 {
-   margin: 30% 0px;
+   margin: 20% 5%;
 }
 
 .appbox-Right-Uber
@@ -343,9 +344,15 @@
     margin: 20px 55%;
 }
 
+.appbox-Right-Uber
+{
+    width: 220px;
+}
+
 .appbox-Left-Uber
 {
-    margin: 30% -125%;
+     margin: 13% -104%;
+    text-align: center;
 }
 
 @media only screen and (max-width: 600px) 
